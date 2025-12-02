@@ -18,7 +18,7 @@ Inglés (C2) - Francés (B2) - Alemán (B1) - Español (Nativo)
 
 - #### Generales
 
-![generales](https://skillicons.dev/icons?i=git,linux,debian,apple,windows,regex,bash,sublime,vscode,vercel)
+  ![generales](https://skillicons.dev/icons?i=git,linux,debian,apple,windows,regex,bash,sublime,vscode,vercel)
 
 - #### Lenguajes de programación
 
@@ -29,9 +29,9 @@ Inglés (C2) - Francés (B2) - Alemán (B1) - Español (Nativo)
   - Aprendiendo: &emsp; ![Básico](https://skillicons.dev/icons?i=php,go,rust)
 
 - #### Cloud
-Experiencia con la suite de Cloudflare (Workers, Pages, R2, DNS, WAF) y Amazon (S3, EC2). Manejo de Docker y Docker Compose.
+  Experiencia con la suite de Cloudflare (Workers, Pages, R2, DNS, WAF) y Amazon (S3, EC2). Manejo de Docker y Docker Compose.
 
-![cloud](https://skillicons.dev/icons?i=cloudflare,workers,aws,docker)
+  ![cloud](https://skillicons.dev/icons?i=cloudflare,workers,aws,docker)
 
 - #### Ciberseguridad
   *He participado en un CTF este año, [pueden ver mi resolución aquí](https://github.com/mv12star/ctf-secadmin-2025)* 😄
