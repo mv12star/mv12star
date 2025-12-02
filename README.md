@@ -1,4 +1,4 @@
-Español | English | Français
+Español | [English](https://github.com/mv12star/mv12star/blob/main/README_en.md) | [Français](https://github.com/mv12star/mv12star/blob/main/README_fr.md)
 
 ## 👋 ¡Hola, soy @mv12star!
 
